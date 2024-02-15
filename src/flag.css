@@ -1,0 +1,26 @@
+#red {
+    height: 243px;
+    width: 552px;
+    border: 2px solid black;
+    margin-top: 138px;
+}
+
+#top {
+    background-color: #FF671F;
+    height: 80px;
+}
+
+#down {
+    background-color: #046A38;
+    height: 80px;
+}
+
+#middle {
+    background-color: #FFFFFF;
+    height: 80px;
+
+}
+
+#img {
+    height: 79px;
+}
